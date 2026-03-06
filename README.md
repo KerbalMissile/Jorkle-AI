@@ -2,7 +2,7 @@
 
 # Simple Local LLM with JSON Knowledge Base
 
-This project is a lightweight, local language model (LLM) built with PyTorch that learns from JSON knowledge files combined with a built-in English corpus. It supports interactive chat, dynamic learning of new facts, and easy retraining — all running efficiently on a CPU.
+This project is a lightweight, local language model (LLM) built with PyTorch that learns from JSON knowledge files combined with a built-in English corpus. It supports interactive chat, dynamic learning of new facts, and easy retraining all running efficiently on a CPU.
 
 ## Features
 
