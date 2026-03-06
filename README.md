@@ -57,3 +57,6 @@ This command immediately updates `knowledge.json` and appends the fact to `learn
 ## License
 
 This project is released under the GNU v3 License.
+
+## Warning
+I did use a bit of AI to assist in the README so I can save time to code more...
