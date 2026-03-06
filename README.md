@@ -56,5 +56,4 @@ This command immediately updates `knowledge.json` and appends the fact to `learn
 
 ## License
 
-This project is released under the MIT License.
-```
+This project is released under the GNU v3 License.
