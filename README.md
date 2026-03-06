@@ -22,6 +22,7 @@ This project is a lightweight, local language model (LLM) built with PyTorch tha
 ### Training the Model
 
 Before chatting with the AI, you must train the model. This process reads your JSON knowledge files and the built-in corpus to build the AI's "brain" (`ckpt.pt`).
+I have already included a file already if you wanna just hit the ground running, but if you want to add more info, a re-train is needed.
 
 Run the following command:
 ```bash
